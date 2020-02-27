@@ -8,17 +8,17 @@ NAMA : MUHAMMAD ALFAN CHOLILI (1804400107)
 
 ## Tipe-Tipe Data
 
-<img src="img/01.png" />
+<img src="img/01.png">
 
 ## Distribusi Data
 
 Data Jumlah :
 
-<img src="img/02.png" />
+<img src="img/02.png">
 
 Data Tahun :
 
-<img src="img/03.png" />
+<img src="img/03.png">
 
 ## RATA-RATA DAN STANDART DEVIASI
 
