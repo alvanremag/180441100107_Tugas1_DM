@@ -25,5 +25,3 @@ Data Tahun :
 RATA-RATA : 763.448275862069
 
 STANDART DEVIASI : 1718.776
-
-*)Sumber : https://data.go.id/dataset/data-angkutan-sewa-di-dki-jakarta-tahun-2013-2017
