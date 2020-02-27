@@ -8,7 +8,7 @@ NAMA : MUHAMMAD ALFAN CHOLILI (1804400107)
 
 ## Tipe-Tipe Data
 
-<img src="img/01.png", width=800>
+![](/img/01.png)
 
 ## Distribusi Data
 
